@@ -5,4 +5,5 @@ If you want to change the model to cater to another users habits follow these st
 1. Download the data from the link :- https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz.
 2. Set the correct path directories in DataProcessing.py
 3. Change the name of the user in DataProcessing.py
+4. Run train.py
 4. Run Test.py
